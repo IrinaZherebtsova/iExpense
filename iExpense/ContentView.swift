@@ -112,7 +112,6 @@ struct ContentView: View {
         removeItems(at: offsets, in: expenses.businessItems)
     }
 }
-//грншнш
 #Preview {
     ContentView()
 }
